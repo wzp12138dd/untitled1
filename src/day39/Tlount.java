@@ -22,7 +22,7 @@ public class Tlount extends HttpServlet{
         out.println("<meta charset='UTF-8'>");
         out.println("<title>登录成功页面</title>");
         out.println("<body>");
-        out.print("账号："+username+",密码："+password);
+        out.print("账号ddf："+username+",密码："+password);
         out.println("</body>");
         out.println("</head>");
         out.println("</html>");
